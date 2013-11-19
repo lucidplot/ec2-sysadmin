@@ -1,0 +1,21 @@
+{
+  "name": "ec2-sysadmin",
+  "version": "0.0.0",
+  "description": "EC2 sysadmin utilities, initially for starting/stopping an AWS instance and updating DNS to point to it",
+  "main": "manageTLHub.js",
+  "dependencies": {
+    "aws-sdk": "~1.4.1",
+    "optimist": "~0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucidplot/ec2-sysadmin.git"
+  },
+  "author": "Jonathan Kahn",
+  "license": "GPL3",
+  "gitHead": "2eea338bb529da53f36b1c5dfff2d45a70a1a399"
+}
