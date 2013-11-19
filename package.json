@@ -2,7 +2,7 @@
   "name": "ec2-sysadmin",
   "version": "0.0.0",
   "description": "EC2 sysadmin utilities, initially for starting/stopping an AWS instance and updating DNS to point to it",
-  "main": "manageInstace.js",
+  "main": "manageInstance.js",
   "dependencies": {
     "aws-sdk": "~1.4.1",
     "optimist": "~0.6.0"
